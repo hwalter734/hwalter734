@@ -28,7 +28,5 @@
 <br />
 <br />
 
----
-
-[instagram]: https://instagram.com/hans_walter
-[linkedin]: https://linkedin.com/in/hans-walter
+[instagram]: https://www.instagram.com/hans_walter/
+[linkedin]: https://www.linkedin.com/in/hans-walter/
