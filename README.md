@@ -8,8 +8,8 @@
 
 ### Let's connect!
 
-[<img align="left" alt="hans_linkedin" | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
-[<img align="left" alt="hans_instagram" | Instagram" width="22px" src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" />][instagram]
+[<img align="left" alt="hans_linkedin | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" alt="hans_instagram | Instagram" width="22px" src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" />][instagram]
 
 <br />
 
