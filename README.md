@@ -2,7 +2,7 @@
 
 ## I'm a Business Engineer and a Data Scientist
 
-- 🔭 I'm actively looking for a part time job
+- 👨🏻‍💻 I'm currently working as an intern in GBM as a Software Specialist
 - 📚 Finalizing my last year of the career
 - 🎵 Deeply passionate about music, my favorite artist is Ben Howard! Also I know how to play guitar, piano and bass.
 
