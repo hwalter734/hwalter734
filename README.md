@@ -2,7 +2,7 @@
 
 ## I'm a Business Engineer and a Data Scientist
 
-- 👨🏻‍💻 I'm currently working as an intern in GBM as a Software Specialist
+- 👨🏻‍💻 I'm currently working as a Data Engineer in Banco Agromercantil S.A. full time and at the same time, completing an internship in GBM as a Software Specialist focused in automation
 - 📚 Finalizing my last year of the career
 - 🎵 Deeply passionate about music, my favorite artist is Ben Howard! Also I know how to play guitar, piano and bass.
 
