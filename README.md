@@ -2,7 +2,7 @@
 
 ## I'm a Business Engineer and a Data Scientist
 
-- 👨🏻‍💻 I'm currently working as a Big Data Developer and Catalog Specialist at Max Warehouse
+- 👨🏻‍💻 I'm currently working as a Data Engineer in eSage Group.
 - 🎵 Deeply passionate about music, my favorite artist is Ben Howard! Also I know how to play guitar, piano and bass.
 
 ### Let's connect!
