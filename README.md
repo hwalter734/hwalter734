@@ -1,9 +1,9 @@
 ### Hello there! My name is Hans Walter 
 
-## I'm a Business Engineer and a Data Scientist
+## Data Science Engineer
 
-- 👨🏻‍💻 I'm currently working as a Data Engineer in eSage Group.
-- 🎵 Deeply passionate about music, my favorite artist is Ben Howard! Also I know how to play guitar, piano and bass.
+- 👨🏻‍💻 I'm currently working as a Data Modeler in Philip Morris International.
+- 🎵 Deeply passionate about music, my favorite artist is Ben Howard! Deeply fond of playing instruments and discovering new sound textures.
 
 ### Let's connect!
 
